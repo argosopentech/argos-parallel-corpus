@@ -1,12 +1,25 @@
 [
-  {
-    "lang_code": "en",
-    "author": "William Shakespeare"
-    "value": "To be, or not to be, that is the question"
-  },
-  {
-    "lang_code": "es",
-    "author": "P.J. Finlay",
-    "value": "Ser, o no ser, esa es la cuestión."
-  }
+    [
+        {
+            "lang_code": "en",
+            "author": "William Shakespeare",
+            "value": "To be, or not to be, that is the question"
+        },
+        {
+            "lang_code": "es",
+            "author": "P.J. Finlay",
+            "value": "Ser, o no ser, esa es la cuestión."
+        }
+    ],
+    [
+        {
+            "lang_code": "en",
+            "value": "What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over three hundred confirmed kills. I am trained in gorilla warfare and I'm the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little 'clever' comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You're fucking dead, kiddo."
+        },
+        {
+            "lang_code": "ru",
+            "author": "flexagoon",
+            "value": "Что ты, блядь, только что сказала обо мне, маленькая сучка? Давай я расскажу тебе о том, что я был лучшим учеником в школе Морских Котиков, и участвовал во множестве секретных рейдах на Аль-Каиду, и у меня более трехсот подтвержденных убийств. Я натренирован в войне с гориллами и я лучший снайпер во всех вооруженных силах США. Ты для меня не больше, чем очередная мишень. Я нахуй уничтожу тебя с точностью, подобной которой никогда не было на этой Земле, помяни мое ебаное слово. Ты думаешь, тебе сойлет с рук, если ты скажешь мне это дерьмо через интернет? Подумай еще раз, еблан. Пока мы разговариваем, я связываюсь со своей секретной сетью шпионов по всей территории США, и твой IP отслеживается прямо сейчас, поэтому лучше подготовься к буре, личинка. Буре, которая уничтожит ту жалкую маленькую вещь, которою ты зовешь своей жизнью. Ты, блядь, мертв, пацан. Я могу быть в любом месте и в любое время, и у меня есть более семи сотен способов убить тебя голыми руками. Я не только хорошо обучен безоружному бою, но и имею доступ ко всему арсеналу морской пехоты США, и я буду использовать его по максимуму чтобы стереть твою жалкую жопу с лица континента, маленький говнюк. Если бы ты только мог знать, какое ужасное возмездие обрушится на тебя за твой маленький 'умный' комментарий, возможно, ты бы придержал свой ебаный язык. Но ты не смог и не сделал это, и теперь ты расплатишься за это, ты гребаный идиот. Я обосру тебя яростью и ты утонешь в ней. Ты ебаный труп, малыш."
+        }
+    ]
 ]
