@@ -1,3 +1,4 @@
+# Deprecated in favor of the [LibreTranslate Community Dataset](https://github.com/LibreTranslate/CommunityDS)
 # Argos Parallel Corpus
 ```
 [
